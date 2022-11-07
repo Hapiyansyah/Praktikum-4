@@ -9,6 +9,7 @@
 
 4. setelah itu running
 5. lalu masukan nilai yang diinginkan.
+
 ![poto2](foto/poto2.png)
 
 ## Latihan 2
