@@ -35,7 +35,7 @@
 ![poto6](foto/poto6.png)
 
 ## Latihan 4
-### mencari nilai dan data
+### mencari nilai 
 1. input kode seperti gambar dibawah ini
 
 ![poto7](foto/poto7.png)
