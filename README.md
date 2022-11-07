@@ -2,29 +2,28 @@
 
 ## Latihan 1
 ### Menemukan jumlah terbesar dari dua variabel
-1. masukan input seperti yang ditunjukkan pada gambar dibawah ini.
-
+1. masukan A = int(input("masukan bilangan 1:"))
 2. kemudian masukan if lalu tambahkan a > b: lalu lakukan perintah ("bilangan terbesar").
 3. selanjutnya tambahkan else untuk menentukan mana yg lebih besar antara a dan b.
 
-setelah itu running, lalu masukan nilai yang diinginkan.
+4. setelah itu running
+5. lalu masukan nilai yang diinginkan.
 
 ## Latihan 2
 ### Mencari nilai terbesar dari tiga buah variabel
 1. masukan inputan seperti gambar dibawah ini.
-
-2. lalu masukan juga inputan dibawah 
 
 3. setelah itu running dan ini hasilnya
 
 ## latihan 3
 ### Mengurutkan angka
 1. input kode for i range (0,10)
-2. lalu gabungkan dengan i+j kemudian print untuk menghasilkan running gambar dibawah ini
+2. lalu gabungkan dengan i+j
+ 
+4. kemudian running untuk menghasilkan gambar dibawah ini
 
 ## Latihan 4
 ### mencari nilai dan data
-
 1. input kode seperti gambar dibawah ini
 
 2. lalu tekan running, setelah itu masukan nilai n dengan angka yang diinginkan dan ini hasilnya
