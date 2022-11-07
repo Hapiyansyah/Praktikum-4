@@ -83,3 +83,5 @@
 4. maka hasilnya akan keluar seperti gambar running dibawah ini.
 
 ![poto14](foto/poto14.png)
+
+selesai :)
