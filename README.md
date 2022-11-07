@@ -34,7 +34,7 @@
 2. lalu tekan titik dua makan akan seperti ini if a > c: lakukan juga hal yang sama pada y dan z.
 3. kemudian masukan bilangan terbesar lalu tambahkan elif dan else sebagai penambah aksi sebagai penentu a lebih besar dari c dan b lebih besar dari c. maka kodingan setelah dirunningnya seperti ini.
 
-4. setelah melakukan petintah diatas masukan bilangan terbesar hingga terkecil maka akan muncul hasil yang terbesar.
+4. setelah melakukan perintah diatas masukan bilangan terbesar hingga terkecil maka akan muncul hasil yang terbesar.
 
 ## Latihan 6
 ### mencari nilai n yang terbesar jumlah-nya
